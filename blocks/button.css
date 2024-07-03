@@ -1,0 +1,11 @@
+.button {
+}
+.button__type-edit {
+  height: 24px;
+  width: 24px;
+}
+.button__type-add {
+  margin-left: 168px;
+  width: 150px;
+  height: 50px;
+}
