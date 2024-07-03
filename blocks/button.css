@@ -1,6 +1,9 @@
 .button {
   border: none;
 }
+.button:hover {
+  scale: 1.1;
+}
 .button__type-edit {
   height: 24px;
   width: 24px;
