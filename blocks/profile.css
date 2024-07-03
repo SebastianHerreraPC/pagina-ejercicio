@@ -1,16 +1,14 @@
 .profile {
   margin-top: 40px;
   margin: 40px auto 50px;
-  border: 1px solid white;
-  border: 1px solid white;
   display: flex;
   align-items: center;
+  border: 1px solid white;
 }
 .profile__images {
   width: 120px;
 }
 .profile__info {
-  border: 1px solid white;
   width: 414px;
   max-height: 77px;
   margin-left: 30px;
@@ -22,7 +20,6 @@
   border-top: 0px;
   font-size: 42px;
   margin-bottom: 16px;
-  border: 1px solid white;
 }
 .profile__name-text {
   margin: 0px;
@@ -30,5 +27,4 @@
 .profile__job {
   margin: 0px;
   font-size: 18px;
-  border: 1px solid white;
 }
