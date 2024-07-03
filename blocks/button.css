@@ -4,11 +4,21 @@
 .button__type-edit {
   height: 24px;
   width: 24px;
+  background-image: url(/images/edit-avatar.svg);
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .button__type-add {
   margin-left: 168px;
   width: 150px;
   height: 50px;
+  background-image: url(/images/add.svg);
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 1px solid white;
 }
 .button__type-like {
   height: 30px;
